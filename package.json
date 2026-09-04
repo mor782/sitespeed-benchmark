@@ -1,0 +1,24 @@
+{
+  "name": "sitespeed-benchmark",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A web performance benchmarking tool that helps you compare the performance of two or more websites to identify areas for improvement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mor782/sitespeed-benchmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mor782/sitespeed-benchmark/issues"
+  },
+  "homepage": "https://github.com/mor782/sitespeed-benchmark#readme",
+  "dependencies": {
+    "sitespeed.io": "^42.6.0"
+  }
+}
