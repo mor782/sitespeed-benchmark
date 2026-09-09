@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>דשבורד ביצועי אתרים 📊</title>
+    <!-- טעינת ספריית Chart.js מקישור CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <h1>תוצאות בדיקת ביצועים 🚀</h1>
+
+    <!-- משטח הציור של הגרף -->
+    <div style="width: 80%; margin: auto;">
+        <canvas id="myChart"></canvas>
+    </div>
+
+    <!-- כאן נכתוב את קוד ה-JavaScript שיטען את ה-JSON ויצייר את הגרף -->
+    <script>
+        fetch('./summary.json')
+            .then(response => response.json())
+            .then(data => {
+                console.log("הנתונים שהתקבלו:", data);
+                // כאן נבנה את הגרף
+            });
+    </script>
+</body>
+
+
+</html>

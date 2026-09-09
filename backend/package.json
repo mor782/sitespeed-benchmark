@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mor782/sitespeed-benchmark#readme",
   "dependencies": {
+    "browsertime": "^28.3.0",
     "sitespeed.io": "^42.6.0"
   }
 }
