@@ -1,0 +1,296 @@
+[
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 356,
+    "lcp": 766,
+    "totalTime": 1025,
+    "timestamp": "2026-09-12T08:31:16.617Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 371,
+    "lcp": 424,
+    "totalTime": 1138,
+    "timestamp": "2026-09-12T08:31:16.617Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 198,
+    "lcp": 572,
+    "totalTime": 752,
+    "timestamp": "2026-09-12T08:31:57.980Z"
+  },
+  {
+    "url": "http://wikipidia.co.il",
+    "ttfb": 348,
+    "lcp": 731,
+    "totalTime": 1196,
+    "timestamp": "2026-09-12T08:31:57.980Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 393,
+    "lcp": 838,
+    "totalTime": 1080,
+    "timestamp": "2026-09-12T08:36:01.294Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 296,
+    "lcp": 918,
+    "totalTime": 932,
+    "timestamp": "2026-09-12T08:36:01.294Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 213,
+    "lcp": 511,
+    "totalTime": 1414,
+    "timestamp": "2026-09-12T08:52:28.711Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 228,
+    "lcp": 1089,
+    "totalTime": 1121,
+    "timestamp": "2026-09-12T08:53:01.126Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 397,
+    "lcp": 1055,
+    "totalTime": 1042,
+    "timestamp": "2026-09-12T08:53:01.126Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 270,
+    "lcp": 753,
+    "totalTime": 1026,
+    "timestamp": "2026-09-12T08:59:10.288Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 235,
+    "lcp": 469,
+    "totalTime": 1430,
+    "timestamp": "2026-09-12T08:59:10.288Z"
+  },
+  {
+    "url": "http://facebook.com",
+    "ttfb": 244,
+    "lcp": 1045,
+    "totalTime": 1083,
+    "timestamp": "2026-09-12T09:00:07.450Z"
+  },
+  {
+    "url": "http://youtube.com",
+    "ttfb": 352,
+    "lcp": 828,
+    "totalTime": 815,
+    "timestamp": "2026-09-12T09:00:07.450Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 255,
+    "lcp": 1050,
+    "totalTime": 1342,
+    "timestamp": "2026-09-12T09:05:33.669Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 158,
+    "lcp": 467,
+    "totalTime": 1356,
+    "timestamp": "2026-09-12T09:05:33.669Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 194,
+    "lcp": 856,
+    "totalTime": 1025,
+    "timestamp": "2026-09-12T09:09:57.489Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 194,
+    "lcp": 1043,
+    "totalTime": 1277,
+    "timestamp": "2026-09-12T09:09:57.489Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 203,
+    "lcp": 996,
+    "totalTime": 701,
+    "timestamp": "2026-09-12T09:21:50.748Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 108,
+    "lcp": 707,
+    "totalTime": 1470,
+    "timestamp": "2026-09-12T09:23:14.202Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 282,
+    "lcp": 1035,
+    "totalTime": 1547,
+    "timestamp": "2026-09-12T09:44:38.719Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 126,
+    "lcp": 943,
+    "totalTime": 1220,
+    "timestamp": "2026-09-12T09:48:10.355Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 372,
+    "lcp": 805,
+    "totalTime": 1381,
+    "timestamp": "2026-09-12T09:48:48.725Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 195,
+    "lcp": 547,
+    "totalTime": 1275,
+    "timestamp": "2026-09-12T16:53:30.882Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 327,
+    "lcp": 731,
+    "totalTime": 997,
+    "timestamp": "2026-09-12T16:53:30.882Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 117,
+    "lcp": 1166,
+    "totalTime": 1278,
+    "timestamp": "2026-09-12T16:57:20.123Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 394,
+    "lcp": 1166,
+    "totalTime": 1492,
+    "timestamp": "2026-09-12T16:57:20.123Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 212,
+    "lcp": 934,
+    "totalTime": 1082,
+    "timestamp": "2026-09-12T16:58:27.909Z"
+  },
+  {
+    "url": "htpp://walla.co.il",
+    "ttfb": 146,
+    "lcp": 730,
+    "totalTime": 1364,
+    "timestamp": "2026-09-12T17:03:36.810Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 165,
+    "lcp": 1037,
+    "totalTime": 1125,
+    "timestamp": "2026-09-12T17:08:50.786Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 308,
+    "lcp": 890,
+    "totalTime": 631,
+    "timestamp": "2026-09-12T17:12:56.574Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 134,
+    "lcp": 1078,
+    "totalTime": 1529,
+    "timestamp": "2026-09-12T17:19:53.791Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 237,
+    "lcp": 430,
+    "totalTime": 741,
+    "timestamp": "2026-09-12T17:20:25.678Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 384,
+    "lcp": 599,
+    "totalTime": 1264,
+    "timestamp": "2026-09-12T17:26:37.065Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 200,
+    "lcp": 976,
+    "totalTime": 642,
+    "timestamp": "2026-09-12T17:28:32.638Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 213,
+    "lcp": 747,
+    "totalTime": 1574,
+    "timestamp": "2026-09-12T17:29:01.763Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 140,
+    "lcp": 676,
+    "totalTime": 788,
+    "timestamp": "2026-09-12T17:32:45.714Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 364,
+    "lcp": 434,
+    "totalTime": 759,
+    "timestamp": "2026-09-12T17:35:22.080Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 259,
+    "lcp": 1028,
+    "totalTime": 780,
+    "timestamp": "2026-09-12T17:38:12.333Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 229,
+    "lcp": 925,
+    "totalTime": 780,
+    "timestamp": "2026-09-12T17:38:28.123Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 202,
+    "lcp": 1000,
+    "totalTime": 913,
+    "timestamp": "2026-09-12T17:40:22.990Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 187,
+    "lcp": 979,
+    "totalTime": 718,
+    "timestamp": "2026-09-12T17:40:37.404Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 138,
+    "lcp": 440,
+    "totalTime": 1482,
+    "timestamp": "2026-09-12T17:40:37.404Z"
+  }
+]
