@@ -1,4 +1,4 @@
-import { runPerformanceTests } from '../services/sitespeedRunner.mock.js';
+import { runPerformanceTests } from '../services/sitespeedRunner.js';
 import express from 'express';
 import { saveResults, getHistoryForUrl } from '../services/historyService.js';
 

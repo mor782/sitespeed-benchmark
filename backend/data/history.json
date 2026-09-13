@@ -397,5 +397,61 @@
     "lcp": 555,
     "totalTime": 659,
     "timestamp": "2026-09-13T08:57:35.066Z"
+  },
+  {
+    "url": "https://example.com",
+    "ttfb": 76,
+    "lcp": 216,
+    "totalTime": 96,
+    "timestamp": "2026-09-13T09:06:29.192Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 78,
+    "lcp": 216,
+    "totalTime": 101,
+    "timestamp": "2026-09-13T09:08:11.775Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 78,
+    "lcp": 216,
+    "totalTime": 101,
+    "timestamp": "2026-09-13T09:08:11.802Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 81,
+    "lcp": 216,
+    "totalTime": 100,
+    "timestamp": "2026-09-13T09:10:43.541Z"
+  },
+  {
+    "url": "https://www.sitespeed.io",
+    "ttfb": 309,
+    "lcp": 549,
+    "totalTime": 593,
+    "timestamp": "2026-09-13T09:10:43.541Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 83,
+    "lcp": 216,
+    "totalTime": 102,
+    "timestamp": "2026-09-13T09:13:15.237Z"
+  },
+  {
+    "url": "https://www.sitespeed.io",
+    "ttfb": 359,
+    "lcp": 655,
+    "totalTime": 715,
+    "timestamp": "2026-09-13T09:13:15.237Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 78,
+    "lcp": 252,
+    "totalTime": 280,
+    "timestamp": "2026-09-13T09:13:15.237Z"
   }
 ]
