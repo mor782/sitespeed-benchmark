@@ -453,5 +453,12 @@
     "lcp": 252,
     "totalTime": 280,
     "timestamp": "2026-09-13T09:13:15.237Z"
+  },
+  {
+    "url": "https://test-site.com",
+    "ttfb": 100,
+    "lcp": 200,
+    "totalTime": 300,
+    "timestamp": "2026-09-13T09:23:54.930Z"
   }
 ]

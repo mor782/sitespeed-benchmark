@@ -5,7 +5,7 @@
   "description": "A web performance benchmarking tool that helps you compare the performance of two or more websites to identify areas for improvement.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "sitespeed.io": "^42.6.0"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.0"
   }
 }
