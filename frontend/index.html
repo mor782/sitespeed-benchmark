@@ -1,31 +1,34 @@
 <!DOCTYPE html>
-<html lang="he" dir="rtl">
-
-<head>
-    <meta charset="UTF-8">
-    <title>דשבורד ביצועי אתרים 📊</title>
-    <!-- טעינת ספריית Chart.js מקישור CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-
-<body>
-    <h1>תוצאות בדיקת ביצועים 🚀</h1>
-
-    <!-- משטח הציור של הגרף -->
-    <div style="width: 80%; margin: auto;">
-        <canvas id="myChart"></canvas>
-    </div>
-
-    <!-- כאן נכתוב את קוד ה-JavaScript שיטען את ה-JSON ויצייר את הגרף -->
-    <script>
-        fetch('./summary.json')
-            .then(response => response.json())
-            .then(data => {
-                console.log("הנתונים שהתקבלו:", data);
-                // כאן נבנה את הגרף
-            });
-    </script>
-</body>
-
-
+<html>
+    <head>
+        <title>
+            Website Performance Dashboard
+        </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Website Preformance Testing</h1>
+        <input type="text" id="urlInput" placeholder="enter website url">
+        <button id="addButton" type="button">Add</button>
+        <ul id="urlList"></ul>
+    
+        <button id="runButton" type="button">Run Tests</button>
+        
+        <table id="resultsTable">
+            <thead>
+                <tr>
+                    <th>URL</th>
+                    <th>TTFB</th>
+                    <th>LCP</th>
+                    <th>Total Time</th>
+                </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+        </table>
+        
+        <canvas id="comparisonChart"></canvas>
+    
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="app.js"></script>
+    </body>
 </html>
