@@ -292,5 +292,110 @@
     "lcp": 440,
     "totalTime": 1482,
     "timestamp": "2026-09-12T17:40:37.404Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 249,
+    "lcp": 409,
+    "totalTime": 1480,
+    "timestamp": "2026-09-13T08:29:42.073Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 132,
+    "lcp": 889,
+    "totalTime": 718,
+    "timestamp": "2026-09-13T08:29:42.073Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 138,
+    "lcp": 912,
+    "totalTime": 791,
+    "timestamp": "2026-09-13T08:40:20.485Z"
+  },
+  {
+    "url": "http://wikepidia.co.il",
+    "ttfb": 380,
+    "lcp": 1062,
+    "totalTime": 1068,
+    "timestamp": "2026-09-13T08:40:20.485Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 128,
+    "lcp": 900,
+    "totalTime": 1068,
+    "timestamp": "2026-09-13T08:43:52.879Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 249,
+    "lcp": 1038,
+    "totalTime": 776,
+    "timestamp": "2026-09-13T08:51:09.463Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 228,
+    "lcp": 1014,
+    "totalTime": 878,
+    "timestamp": "2026-09-13T08:51:09.463Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 396,
+    "lcp": 697,
+    "totalTime": 1469,
+    "timestamp": "2026-09-13T08:51:09.494Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 304,
+    "lcp": 934,
+    "totalTime": 778,
+    "timestamp": "2026-09-13T08:51:09.494Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 370,
+    "lcp": 561,
+    "totalTime": 1594,
+    "timestamp": "2026-09-13T08:52:02.005Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 213,
+    "lcp": 732,
+    "totalTime": 1279,
+    "timestamp": "2026-09-13T08:52:02.036Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 133,
+    "lcp": 1021,
+    "totalTime": 960,
+    "timestamp": "2026-09-13T08:57:35.066Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 258,
+    "lcp": 993,
+    "totalTime": 896,
+    "timestamp": "2026-09-13T08:57:35.066Z"
+  },
+  {
+    "url": "http://wikipedia.co.il",
+    "ttfb": 126,
+    "lcp": 668,
+    "totalTime": 709,
+    "timestamp": "2026-09-13T08:57:35.066Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 102,
+    "lcp": 555,
+    "totalTime": 659,
+    "timestamp": "2026-09-13T08:57:35.066Z"
   }
 ]

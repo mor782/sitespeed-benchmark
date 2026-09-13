@@ -1,34 +1,40 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>
-            Website Performance Dashboard
-        </title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <h1>Website Preformance Testing</h1>
-        <input type="text" id="urlInput" placeholder="enter website url">
-        <button id="addButton" type="button">Add</button>
-        <ul id="urlList"></ul>
-    
-        <button id="runButton" type="button">Run Tests</button>
-        
-        <table id="resultsTable">
-            <thead>
-                <tr>
-                    <th>URL</th>
-                    <th>TTFB</th>
-                    <th>LCP</th>
-                    <th>Total Time</th>
-                </tr>
-            </thead>
-            <tbody id="resultsBody"></tbody>
-        </table>
-        
-        <canvas id="comparisonChart"></canvas>
-    
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-        <script src="app.js"></script>
-    </body>
+
+<head>
+    <title>
+        Website Performance Dashboard
+    </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Website Preformance Testing</h1>
+    <input type="text" id="urlInput" placeholder="enter website url">
+    <button id="addButton" type="button">Add</button>
+    <ul id="urlList"></ul>
+
+    <button id="runButton" type="button">Run Tests</button>
+
+    <table id="resultsTable">
+        <thead>
+            <tr>
+                <th>URL</th>
+                <th>TTFB</th>
+                <th>LCP</th>
+                <th>Total Time</th>
+            </tr>
+        </thead>
+        <tbody id="resultsBody"></tbody>
+    </table>
+
+    <canvas id="comparisonChart"></canvas>
+    <h2>History</h2>
+    <select id="historySelect"></select>
+    <canvas id="historyChart"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+</body>
+
 </html>
