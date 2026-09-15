@@ -23,7 +23,8 @@ table {
     margin-top: 20px;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #ccc;
     padding: 10px;
     text-align: left;
@@ -31,4 +32,9 @@ th, td {
 
 th {
     background-color: #f0f0f0;
+}
+
+button {
+    color: #000;
+    border: 1px solid #333;
 }

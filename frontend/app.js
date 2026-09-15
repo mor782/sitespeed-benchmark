@@ -16,6 +16,7 @@ addButton.addEventListener('click', function () {
     newItem.dataset.url = url;
     const deleteButton = document.createElement('button');
     deleteButton.textContent = 'Delete';
+    deleteButton.setAttribute('aria-label', 'Delete ' + url);
 
     deleteButton.addEventListener('click', function () {
         newItem.remove();

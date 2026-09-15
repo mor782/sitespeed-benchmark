@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" dir="ltr">
 
 <head>
     <title>
@@ -10,7 +10,8 @@
 
 <body>
     <h1>Website Preformance Testing</h1>
-    <input type="text" id="urlInput" placeholder="enter website url">
+    <label for="urlInput">Website URL to add</label>
+    <input type="text" id="urlInput" placeholder="e.g. https://example.com">
     <button id="addButton" type="button">Add</button>
     <ul id="urlList"></ul>
 
@@ -25,13 +26,14 @@
                 <th>Total Time</th>
             </tr>
         </thead>
-        <tbody id="resultsBody"></tbody>
+        <tbody id="resultsBody" aria-live="polite"></tbody>
     </table>
 
-    <canvas id="comparisonChart"></canvas>
+    <canvas id="comparisonChart" role="img" aria-label="Bar chart comparing website performance"></canvas>
     <h2>History</h2>
+    <label for="historySelect">Select a website to view history</label>
     <select id="historySelect"></select>
-    <canvas id="historyChart"></canvas>
+    <canvas id="historyChart" role="img" aria-label="Line chart showing performance trend over time"></canvas>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="app.js"></script>

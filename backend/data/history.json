@@ -460,5 +460,75 @@
     "lcp": 200,
     "totalTime": 300,
     "timestamp": "2026-09-13T09:23:54.930Z"
+  },
+  {
+    "url": "https://test-site.com",
+    "ttfb": 100,
+    "lcp": 200,
+    "totalTime": 300,
+    "timestamp": "2026-09-15T08:31:53.323Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 94,
+    "lcp": 268,
+    "totalTime": 304,
+    "timestamp": "2026-09-15T08:39:30.772Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 364,
+    "lcp": 1432,
+    "totalTime": 29272,
+    "timestamp": "2026-09-15T08:39:30.772Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 414,
+    "lcp": 784,
+    "totalTime": 50661,
+    "timestamp": "2026-09-15T08:39:30.772Z"
+  },
+  {
+    "url": "http://walla.co.il",
+    "ttfb": 495,
+    "lcp": 1884,
+    "totalTime": 53840,
+    "timestamp": "2026-09-15T08:47:27.714Z"
+  },
+  {
+    "url": "http://ynet.co.il",
+    "ttfb": 373,
+    "lcp": 1316,
+    "totalTime": 23770,
+    "timestamp": "2026-09-15T09:08:13.023Z"
+  },
+  {
+    "url": "http://ksp.co.il",
+    "ttfb": 95,
+    "lcp": 252,
+    "totalTime": 307,
+    "timestamp": "2026-09-15T09:08:13.023Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 67,
+    "lcp": 132,
+    "totalTime": 90,
+    "timestamp": "2026-09-15T09:12:40.143Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 68,
+    "lcp": 140,
+    "totalTime": 88,
+    "timestamp": "2026-09-15T09:12:41.077Z"
+  },
+  {
+    "url": "http://example.com",
+    "ttfb": 95,
+    "lcp": 176,
+    "totalTime": 122,
+    "timestamp": "2026-09-15T09:12:54.902Z"
   }
 ]

@@ -10,6 +10,7 @@ export function saveResults(results) {
         existingHistory = [];
     }
 
+
     const timestamp = new Date().toISOString();
     const newEntries = results.map(function (result) {
         return { ...result, timestamp: timestamp };
@@ -25,3 +26,4 @@ export function getHistoryForUrl(url) {
         return entry.url === url;
     });
 }
+
